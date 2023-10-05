@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hoang T Nguyen</h1>
-<h3 align="center">I'm AI Engineer. I love the Peace where I will become an outstanding person. For sure <3</h3>
+<h3 align="center">I'm AI Researcher. I love the Peace where I will become an outstanding person. For sure <3</h3>
 
 - 🔭 I’m currently working on **AI Research Laboratory**
 
-- 🌱 I’m currently learning **Generative & LLMs**
+- 🌱 I’m currently learning **Computer Vision and Generative & LLMs**
 
 - 👯 I’m looking to collaborate on **FAANG**
 
