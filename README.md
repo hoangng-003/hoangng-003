@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **FAANG**
 
-- 📄 My Resume: [https://drive.google.com/file/d/14SLlRwdV6e9A_H4AVeJyF8CO-auFexY6/view?usp=sharing](https://drive.google.com/file/d/14SLlRwdV6e9A_H4AVeJyF8CO-auFexY6/view?usp=sharing)
+- 📄 My Resume: [https://drive.google.com/file/d/1GMWaiH4t1Ga8d2Rgfe40VI3E113GugGa/view?usp=sharing](https://drive.google.com/file/d/1GMWaiH4t1Ga8d2Rgfe40VI3E113GugGa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
